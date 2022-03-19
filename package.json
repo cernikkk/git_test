@@ -1,0 +1,23 @@
+{
+  "name": "git_test",
+  "version": "1.0.0",
+  "description": "Hello Odin!s",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cernikkk/git_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cernikkk/git_test/issues"
+  },
+  "homepage": "https://github.com/cernikkk/git_test#readme",
+  "devDependencies": {
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
